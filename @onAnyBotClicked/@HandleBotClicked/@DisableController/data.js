@@ -1,5 +1,3 @@
-@DisableController
-
 // Stop the update process for the current bot (thisBot)
 thisBot.StopUpdate();
 
